@@ -10,3 +10,4 @@ Write HTML in the `index.html` file that does the following:
 * Has a button that says "Sign Up"
 
 Add or edit some styles in the `index.css` file.
+Made an update
